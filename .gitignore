@@ -1,141 +1,17 @@
-# Build and Release Folders
+# 构建产物与构建材料
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+obj/
+bin/
 
-# Other files and folders
+# 项目配置
 .settings/
 
-# Executables
+# 构建产物
 *.swf
 *.air
 *.ipa
 *.apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
-wwww
-Microsoft WiMicrosoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights rMicrosoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>rosoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
-
-C:\Users\PHAMTHEMINH>
+# 项目文件（`.project`、`.actionScriptProperties`、`.flexProperties` 等）
+# Eclipse / Flash Builder 相关文件
